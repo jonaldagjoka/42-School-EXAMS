@@ -1,4 +1,4 @@
-#include "ft_llst_remove_if.h"
+#include "ft_list.h"
 t_list *sort_list(t_list* lst, int (*cmp)(int,int)){
     int tmp;
     t_list *head;
